@@ -1,0 +1,11 @@
+Package: com.carbondevstudio.lithiumion
+Name: Lithium Ion
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Architecture: iphoneos-arm
+Description: Custom Battery Theming
+Maintainer: creativeBeing <carbondevstudio@gmail.com>
+Author: creativeBeing <carbondevstudio@gmail.com>
+Conflicts: com.fortysixandtwo.alkaline, lithium
+Section: Tweaks
+Version: 0.9-1-5
+Installed-Size: 816
