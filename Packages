@@ -1,14 +1,15 @@
 Package: com.carbondevstudio.lithiumion
-Version: 0.9-1-19
-Name: Lithium Ion
+Version: 0.9-1-20
 Architecture: iphoneos-arm
 Maintainer: creativeBeing <carbondevstudio@gmail.com>
-Author: creativeBeing <carbondevstudio@gmail.com>
 Installed-Size: 864
-Depends: mobilesubstrate, preferenceloader, firmware (>= 7.1)
+Name: Lithium Ion
+Author: creativeBeing <carbondevstudio@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
 Conflicts: com.fortysixandtwo.alkaline, lithium
-Filename: ./debs//com.carbondevstudio.lithiumion_0.9-1-19_iphoneos-arm.deb
-Size: 354974
-MD5sum: 58f00dbd32d69f94feea00e0429434bd
+Filename: ./debs//com.carbondevstudio.lithiumion_0.9-1-20_iphoneos-arm.deb
+Size: 358638
+MD5sum: e5a1fce82453c47c571ab85113486d8b
 Section: Tweaks
 Description: Custom Battery Theming
+
