@@ -8,8 +8,8 @@ Author: creativeBeing <carbondevstudio@gmail.com>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
 Conflicts: com.fortysixandtwo.alkaline, lithium
 Filename: ./debs//com.carbondevstudio.lithiumion_0.999-32_iphoneos-arm.deb
-Size: 392066
-MD5sum: 87b2bcb4cbf1a02139adcda45b7b2dc4
+Size: 390968
+MD5sum: c4de0e2994be81353b8994bb243a48d0
 Section: Tweaks
 Description: Ultimate Battery Customization
 
