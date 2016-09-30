@@ -1,15 +1,17 @@
-Package: com.carbondevstudio.lithiumion
-Version: 0.999-36
+Package: com.tweakingsdev.lithiumion
+Version: 1.0.2b
 Architecture: iphoneos-arm
-Maintainer: creativeBeing <carbondevstudio@gmail.com>
-Installed-Size: 1024
-Name: Lithium Ion
-Author: creativeBeing <carbondevstudio@gmail.com>
+Maintainer: creativeBeing <tweakingsdev@gmail.com>
+Installed-Size: 1216
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
-Conflicts: com.fortysixandtwo.alkaline, lithium
-Filename: ./debs//com.carbondevstudio.lithiumion_0.999-36_iphoneos-arm.deb
-Size: 404132
-MD5sum: d0ed24628090984a003c5a221fcfa58b
+Conflicts: com.fortysixandtwo.alkaline, lithium, com.carbondevstudio.lithiumion
+Filename: ./debs/com.tweakingsdev.lithiumion_1.0.2b_iphoneos-arm.deb
+Size: 443706
+MD5sum: a4bf6bee0c709469a2d28fd5851a6fba
+SHA1: 1f9909a8e413c40d02b1e3484c07a6844846d173
+SHA256: c38bdf71613e2bdd90eb638e74cae6c21366009ada7bf4ba78810c419b878841
 Section: Tweaks
 Description: Ultimate Battery Customization
+Author: creativeBeing <tweakingsdev@gmail.com>
+Name: Lithium Ion
 
