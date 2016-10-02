@@ -5,26 +5,26 @@ Maintainer: creativeBeing <tweakingsdev@gmail.com>
 Depends: com.tweakingsdev.lithiumion
 Filename: ./debs/com.tweakingsdev.ionkitkat_1.0_iphoneos-arm.deb
 Size: 1686
-MD5sum: 0f2e6c1b1a5b6beb0916034f15e4e687
-SHA1: 0196d60e4a961f4baea939afb3f2b3c671bcc7f5
-SHA256: 167f693cdb1744cfa57ac70c6dd66061b00a4ae6b7e5717dbdbcf8ec148ba5f0
+MD5sum: 0c658c46b7087dd4678ba6a817b64f2b
+SHA1: 7504337729f3df4fab76e2985ccbc9f3aecea3d9
+SHA256: bb787f4be68f02852b59b399ead68a5179532212f43d7d6ad5e3839874302cae
 Section: Tweaks
 Description: KitKat Battery Theme for use with Lithium Ion
 Author: creativeBeing <tweakingsdev@gmail.com>
 Name: KitKat for Lithium Ion
 
 Package: com.tweakingsdev.lithiumion
-Version: 1.0.2b
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: creativeBeing <tweakingsdev@gmail.com>
-Installed-Size: 1216
+Installed-Size: 1312
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
 Conflicts: com.fortysixandtwo.alkaline, lithium, com.carbondevstudio.lithiumion
-Filename: ./debs/com.tweakingsdev.lithiumion_1.0.2b_iphoneos-arm.deb
-Size: 443706
-MD5sum: ff2de282fc4b36f6657d42d18fdecdfe
-SHA1: 7ce5319e2d4ed4e5227bb7088b4aa5b6baba3852
-SHA256: d9df665072a4d8c1e423e1bbbfdacc4633cb32d0a5a13da382de63345d4ec8ed
+Filename: ./debs/com.tweakingsdev.lithiumion_1.0.3_iphoneos-arm.deb
+Size: 464330
+MD5sum: d88980bb10ee444241291b98643149ea
+SHA1: f2486fdc5f8e35a3eecff5d075e66ab78f294317
+SHA256: 0bd1626e07f674be787a672b947cc5e1cf92ce4607a60ca278e08f59a516cb1f
 Section: Tweaks
 Description: Ultimate Battery Customization
 Author: creativeBeing <tweakingsdev@gmail.com>
